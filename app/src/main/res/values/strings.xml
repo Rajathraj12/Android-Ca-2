@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="title_activity_myapp">Myapp</string>
+    <string name="title_activity_app_opener">AppOpener</string>
+    <string name="title_activity_bottom_nav_demo">BottomNavDemo</string>
+    <string name="title_activity_scaffold_screen">ScaffoldScreen</string>
+    <string name="title_activity_snck_bar_of_scaffold">SnckBarOfScaffold</string>
+    <string name="title_activity_ecommerce">Ecommerce</string>
+</resources>
